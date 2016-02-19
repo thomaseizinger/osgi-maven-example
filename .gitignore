@@ -111,4 +111,4 @@ local.properties
 .texlipse
 
 ### OSGI
-!/.osgi
+!/osgi
