@@ -1,0 +1,5 @@
+-exportcontents: \
+	org.example.osgi.application
+-importcontents: \
+    org.example.osgi.api
+-sources: true
