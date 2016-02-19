@@ -111,4 +111,7 @@ local.properties
 .texlipse
 
 ### OSGI
-!/runtime
+!runtime/bin
+!runtime/bundle
+!runtime/conf
+!runtime/doc
