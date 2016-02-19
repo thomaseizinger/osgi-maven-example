@@ -1,5 +1,4 @@
--exportcontents: \
-	org.example.osgi.application
--importcontents: \
-    org.example.osgi.api
+-dsannotations: *
+-metatype: *
 -sources: true
+Service-Component: OSGI-INF/*.xml
