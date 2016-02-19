@@ -111,7 +111,7 @@ local.properties
 .texlipse
 
 ### OSGI
-!runtime/bin
-!runtime/bundle
+!/runtime/bin/felix.jar
+!/runtime/bundle/*
 !runtime/conf
 !runtime/doc
