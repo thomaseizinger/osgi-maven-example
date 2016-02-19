@@ -1,4 +1,3 @@
 -dsannotations: *
 -metatype: *
 -sources: true
-Service-Component: OSGI-INF/*.xml
